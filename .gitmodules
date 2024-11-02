@@ -4,3 +4,6 @@
 [submodule "finux"]
 	path = finux
 	url = https://github.com/mattian7741/finux
+[submodule "findb"]
+	path = findb
+	url = https://github.com/mattian7741/findb
