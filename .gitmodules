@@ -1,0 +1,6 @@
+[submodule "payux"]
+	path = payux
+	url = https://github.com/mattian7741/payux
+[submodule "finux"]
+	path = finux
+	url = https://github.com/mattian7741/finux
